@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author mesuv
+ *
+ */
+module javaAll {
+}
